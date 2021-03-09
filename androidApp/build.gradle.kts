@@ -19,7 +19,7 @@ dependencies {
 android {
     compileSdkVersion(29)
     defaultConfig {
-        applicationId = "com.example.myapplication.androidApp"
+        applicationId = "com.liauli.kmp.androidApp"
         minSdkVersion(24)
         targetSdkVersion(29)
         versionCode = 1

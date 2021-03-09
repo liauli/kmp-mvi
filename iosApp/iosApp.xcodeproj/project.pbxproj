@@ -21,9 +21,10 @@
 		7C5D8AF525ED3538003456FA /* RemoteImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5D8AF425ED3538003456FA /* RemoteImage.swift */; };
 		7C5D8B0125EDDAE0003456FA /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5D8B0025EDDAE0003456FA /* ViewModel.swift */; };
 		7CE6349925EE212800E89EF9 /* VideoDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE6349825EE212800E89EF9 /* VideoDetail.swift */; };
-		8904975225F730AD002B3CEA /* Collector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8904975125F730AD002B3CEA /* Collector.swift */; };
 		8904975B25F75FC0002B3CEA /* MainLoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8904975A25F75FC0002B3CEA /* MainLoadingView.swift */; };
 		8904976125F75FEB002B3CEA /* MainVideoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8904976025F75FEB002B3CEA /* MainVideoListView.swift */; };
+		8904976525F77EA1002B3CEA /* MainInitialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8904976425F77EA1002B3CEA /* MainInitialView.swift */; };
+		8904976B25F7B069002B3CEA /* Collector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8904976A25F7B069002B3CEA /* Collector.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,9 +78,10 @@
 		7C5D8AF425ED3538003456FA /* RemoteImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImage.swift; sourceTree = "<group>"; };
 		7C5D8B0025EDDAE0003456FA /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		7CE6349825EE212800E89EF9 /* VideoDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoDetail.swift; sourceTree = "<group>"; };
-		8904975125F730AD002B3CEA /* Collector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collector.swift; sourceTree = "<group>"; };
 		8904975A25F75FC0002B3CEA /* MainLoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainLoadingView.swift; sourceTree = "<group>"; };
 		8904976025F75FEB002B3CEA /* MainVideoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVideoListView.swift; sourceTree = "<group>"; };
+		8904976425F77EA1002B3CEA /* MainInitialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainInitialView.swift; sourceTree = "<group>"; };
+		8904976A25F7B069002B3CEA /* Collector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collector.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,7 +146,7 @@
 				7C5D8AF425ED3538003456FA /* RemoteImage.swift */,
 				7C5D8B0025EDDAE0003456FA /* ViewModel.swift */,
 				7CE6349825EE212800E89EF9 /* VideoDetail.swift */,
-				8904975125F730AD002B3CEA /* Collector.swift */,
+				8904976A25F7B069002B3CEA /* Collector.swift */,
 			);
 			path = iosApp;
 			sourceTree = "<group>";
@@ -188,6 +190,7 @@
 			children = (
 				8904975A25F75FC0002B3CEA /* MainLoadingView.swift */,
 				8904976025F75FEB002B3CEA /* MainVideoListView.swift */,
+				8904976425F77EA1002B3CEA /* MainInitialView.swift */,
 			);
 			path = Main;
 			sourceTree = "<group>";
@@ -346,7 +349,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7555FF7F242A565900829871 /* AppDelegate.swift in Sources */,
-				8904975225F730AD002B3CEA /* Collector.swift in Sources */,
+				8904976525F77EA1002B3CEA /* MainInitialView.swift in Sources */,
 				7555FF81242A565900829871 /* SceneDelegate.swift in Sources */,
 				7CE6349925EE212800E89EF9 /* VideoDetail.swift in Sources */,
 				7C5D8AEF25ED3508003456FA /* VideoItemView.swift in Sources */,
@@ -354,6 +357,7 @@
 				7C5D8AF525ED3538003456FA /* RemoteImage.swift in Sources */,
 				8904975B25F75FC0002B3CEA /* MainLoadingView.swift in Sources */,
 				7555FF83242A565900829871 /* ContentView.swift in Sources */,
+				8904976B25F7B069002B3CEA /* Collector.swift in Sources */,
 				7C5D8B0125EDDAE0003456FA /* ViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

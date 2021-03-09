@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/quipper/Documents/Projects/MyApplication/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/quipper/Documents/Projects/kmp-mvi/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/ef72bbbffc886a79aa576b715dfa2102/viewpager2-1.0.0/res/values/values.xml",
@@ -118,23 +118,6 @@
                     }
                 },
                 {
-                    "source": "/Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
-                    },
-                    "to": {
-                        "startLines": "401,402,403",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "19543,19589,19636",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "19584,19631,19682"
-                    }
-                },
-                {
                     "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/83cded707cce6f236011e226130ce1b7/recyclerview-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -151,6 +134,25 @@
                         "endLines": "299,630,631,632,640,641,642,877,6758",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "14009,34885,34933,34989,35675,35751,35823,50778,440249"
+                    }
+                },
+                {
+                    "source": "/Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "53",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "367"
+                    },
+                    "to": {
+                        "startLines": "1045",
+                        "startColumns": "4",
+                        "startOffsets": "66738",
+                        "endLines": "1050",
+                        "endColumns": "12",
+                        "endOffsets": "67052"
                     }
                 },
                 {
@@ -190,22 +192,20 @@
                     }
                 },
                 {
-                    "source": "/Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/res/values/styles.xml",
+                    "source": "/Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "53",
-                        "endLines": "7",
-                        "endColumns": "12",
-                        "endOffsets": "367"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
                     },
                     "to": {
-                        "startLines": "1045",
-                        "startColumns": "4",
-                        "startOffsets": "66738",
-                        "endLines": "1050",
-                        "endColumns": "12",
-                        "endOffsets": "67052"
+                        "startLines": "401,402,403",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "19543,19589,19636",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "19584,19631,19682"
                     }
                 },
                 {

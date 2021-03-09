@@ -11,7 +11,6 @@ import shared
 
 class ViewModel: ObservableObject {
     @Published var state : MainState = MainState(isLoading: false, data: nil, isError: false)
-
     
     var viewModel : MainViewModel
     

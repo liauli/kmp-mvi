@@ -15,11 +15,10 @@ struct ContentView: View {
             }else if(viewModel.state.data != nil){
                 MainVideoListView(videos: viewModel.state.data!)
             }else{
-                Text("Idle")
+                MainInitialView(viewModel: self.viewModel)
             }
         }.onAppear(){
             viewModel.startObserving()
-            viewModel.emit(intent: MainIntent.initialloadintent)
         }.onDisappear(){
             viewModel.stopObserving()
         }

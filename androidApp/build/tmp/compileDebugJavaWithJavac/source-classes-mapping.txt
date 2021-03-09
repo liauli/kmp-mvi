@@ -1,2 +1,2 @@
-com/example/myapplication/androidApp/BuildConfig.java
- com.example.myapplication.androidApp.BuildConfig
+com/liauli/kmp/androidApp/BuildConfig.java
+ com.liauli.kmp.androidApp.BuildConfig

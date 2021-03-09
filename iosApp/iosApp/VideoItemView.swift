@@ -20,7 +20,6 @@ struct VideoItemView: View {
                 .frame(height: 70)
             VStack(alignment: .leading){
                 Text(video.title)
-//                Text(video.presenter_name)
             }.padding()
         }
     }

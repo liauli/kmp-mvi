@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/quipper/Documents/Projects/MyApplication/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/Users/quipper/Documents/Projects/kmp-mvi/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/860a69309402c904bfc0666aff900fcd/appcompat-1.2.0/res/values-en-rGB/values-en-rGB.xml",

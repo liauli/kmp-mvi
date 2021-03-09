@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/quipper/Documents/Projects/MyApplication/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/quipper/Documents/Projects/kmp-mvi/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/8098c3482d813684af20d23e27f193d5/cardview-1.0.0/res/values-v23/values-v23.xml",

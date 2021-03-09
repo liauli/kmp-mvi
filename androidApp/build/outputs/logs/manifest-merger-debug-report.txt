@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
-INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
-INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
-INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
-MERGED from [:shared] /Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+MERGED from [:shared] /Users/quipper/Documents/Projects/kmp-mvi/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6535564307b14b63ff4a18ef36a7db56/lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/2dcd85d9b49db879107243ee1fce1724/lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/ea7df59dba22266b15341060ddbb0575/lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
@@ -36,29 +36,29 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/quipper/.gradle/
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/cdb6f3003946fde6764571f4572be623/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/236e57a2ede3526bd62e4b3e4bb3dcd8/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1131397baae83771b671b5aa4eda29c9/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
-INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
-INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:2:1-15:12
 	package
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:70-116
-		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
-		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:2:70-105
+		INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
-		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
-		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:3:4-65
+ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:3:4-65
 	android:name
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:3:21-63
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:3:21-63
 application
-ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:4:5-14:19
+ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:4:5-14:19
 MERGED from [com.google.android.material:material:1.2.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/quipper/.gradle/caches/transforms-2/files-2.1/a006956126f0f42192948531b95084cb/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
@@ -70,31 +70,31 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/quip
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1f3d90a9318f44a20302a6e3ee4fa36f/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:6:13-39
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:6:13-39
 	android:allowBackup
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:5:13-40
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:5:13-40
 	android:theme
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:7:13-44
-activity#com.example.myapplication.androidApp.MainActivity
-ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:8:9-13:20
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:7:13-44
+activity#com.liauli.kmp.androidApp.MainActivity
+ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:8:9-13:20
 	android:name
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:8:19-47
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:8:19-72
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:9:13-12:29
+ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:9:13-12:29
 action#android.intent.action.MAIN
-ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:10:17-68
+ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:10:17-68
 	android:name
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:10:25-66
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:10:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:11:17-76
+ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:11:17-76
 	android:name
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:11:27-74
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml:11:27-74
 uses-sdk
-INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
-INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
-MERGED from [:shared] /Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:shared] /Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/quipper/Documents/Projects/kmp-mvi/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/quipper/Documents/Projects/kmp-mvi/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6535564307b14b63ff4a18ef36a7db56/lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6535564307b14b63ff4a18ef36a7db56/lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/2dcd85d9b49db879107243ee1fce1724/lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
@@ -157,13 +157,13 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/quipper/.gradle/ca
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/236e57a2ede3526bd62e4b3e4bb3dcd8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1131397baae83771b671b5aa4eda29c9/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1131397baae83771b671b5aa4eda29c9/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
-INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
-		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
-		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/quipper/Documents/Projects/kmp-mvi/androidApp/src/main/AndroidManifest.xml

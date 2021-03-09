@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/quipper/Documents/Projects/MyApplication/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "/Users/quipper/Documents/Projects/kmp-mvi/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/860a69309402c904bfc0666aff900fcd/appcompat-1.2.0/res/values-mk/values-mk.xml",

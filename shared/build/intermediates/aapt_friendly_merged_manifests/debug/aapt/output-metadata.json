@@ -4,7 +4,7 @@
     "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.myapplication.shared",
+  "applicationId": "com.liauli.kmp.shared",
   "variantName": "debug",
   "elements": [
     {

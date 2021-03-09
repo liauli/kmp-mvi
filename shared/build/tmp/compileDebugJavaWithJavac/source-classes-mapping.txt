@@ -1,2 +1,2 @@
-com/example/myapplication/shared/BuildConfig.java
- com.example.myapplication.shared.BuildConfig
+com/liauli/kmp/shared/BuildConfig.java
+ com.liauli.kmp.shared.BuildConfig
