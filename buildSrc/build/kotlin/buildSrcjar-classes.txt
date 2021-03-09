@@ -1,0 +1,1 @@
+/Users/quipper/Documents/Projects/MyApplication/buildSrc/build/classes/kotlin/main/Dependencies$Ktor.class:/Users/quipper/Documents/Projects/MyApplication/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/quipper/Documents/Projects/MyApplication/buildSrc/build/classes/kotlin/main/Versions.class

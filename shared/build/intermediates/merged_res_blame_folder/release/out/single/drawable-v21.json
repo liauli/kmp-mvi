@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/d5012e7826a2924d24940ffd79a42366/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/d5012e7826a2924d24940ffd79a42366/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/d5012e7826a2924d24940ffd79a42366/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/5a85bd3fe737d844484ab9c67381640f/core-1.2.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/d5012e7826a2924d24940ffd79a42366/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/d5012e7826a2924d24940ffd79a42366/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

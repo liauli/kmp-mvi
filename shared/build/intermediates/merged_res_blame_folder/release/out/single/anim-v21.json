@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/res/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/res/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

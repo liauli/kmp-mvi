@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+MERGED from [:shared] /Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6535564307b14b63ff4a18ef36a7db56/lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/2dcd85d9b49db879107243ee1fce1724/lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/ea7df59dba22266b15341060ddbb0575/lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/quipper/.gradle/caches/transforms-2/files-2.1/a006956126f0f42192948531b95084cb/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/860a69309402c904bfc0666aff900fcd/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/8098c3482d813684af20d23e27f193d5/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/566a34d19219b4b87d2a1bf62385148b/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/87a5b95a56a99226fc748dca636227e2/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/e916c94670e99e86783054e3616bd9fa/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/4ba9bc6d4d5b6f6c542d4eed1cd66d41/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/8490a2b14c0dec8e3b8836cf078ad712/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/ef72bbbffc886a79aa576b715dfa2102/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/f82c354703adbd1c6979f84828248cb4/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/dc52581dd2a540e22b8cdcab7135167d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6be35824a739ce42dcaa134e484857ff/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/83cded707cce6f236011e226130ce1b7/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/3af5b3a2e26f20748b662326e666627c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/368c3545fcf3864c3bce698d687aaee7/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6b6f1b16781064733e4e510a14b76ce4/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/83b8e3dd3565d317be31bd11a574de03/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1f3d90a9318f44a20302a6e3ee4fa36f/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/599955e5868885974aee420606f81f3b/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/4662b63caf60c8494902d9b86f44248b/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/3833c6cd08effe6d6096a633084ca7d1/lifecycle-livedata-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/f8faba281db473a58c54df94d9ab7e5b/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/7160e2cd43b43f75278fddede68aacee/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/8a14fb54394dd6c082783bdf01a6c73b/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/cdb6f3003946fde6764571f4572be623/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/236e57a2ede3526bd62e4b3e4bb3dcd8/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1131397baae83771b671b5aa4eda29c9/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:70-116
+		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:3:4-65
+	android:name
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:3:21-63
+application
+ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:4:5-14:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/quipper/.gradle/caches/transforms-2/files-2.1/a006956126f0f42192948531b95084cb/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/quipper/.gradle/caches/transforms-2/files-2.1/a006956126f0f42192948531b95084cb/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1f3d90a9318f44a20302a6e3ee4fa36f/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1f3d90a9318f44a20302a6e3ee4fa36f/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/4662b63caf60c8494902d9b86f44248b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/4662b63caf60c8494902d9b86f44248b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1f3d90a9318f44a20302a6e3ee4fa36f/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:6:13-39
+	android:allowBackup
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:5:13-40
+	android:theme
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:7:13-44
+activity#com.example.myapplication.androidApp.MainActivity
+ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:8:9-13:20
+	android:name
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:8:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:11:17-76
+	android:name
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml:11:27-74
+uses-sdk
+INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/quipper/Documents/Projects/MyApplication/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6535564307b14b63ff4a18ef36a7db56/lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6535564307b14b63ff4a18ef36a7db56/lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/2dcd85d9b49db879107243ee1fce1724/lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/2dcd85d9b49db879107243ee1fce1724/lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/ea7df59dba22266b15341060ddbb0575/lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/ea7df59dba22266b15341060ddbb0575/lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/d59676f8a12c1429fc5a4a313e0ada43/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/quipper/.gradle/caches/transforms-2/files-2.1/a006956126f0f42192948531b95084cb/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/quipper/.gradle/caches/transforms-2/files-2.1/a006956126f0f42192948531b95084cb/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/860a69309402c904bfc0666aff900fcd/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/860a69309402c904bfc0666aff900fcd/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/8098c3482d813684af20d23e27f193d5/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/8098c3482d813684af20d23e27f193d5/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/566a34d19219b4b87d2a1bf62385148b/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/566a34d19219b4b87d2a1bf62385148b/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/87a5b95a56a99226fc748dca636227e2/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/87a5b95a56a99226fc748dca636227e2/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/e916c94670e99e86783054e3616bd9fa/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/e916c94670e99e86783054e3616bd9fa/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/4ba9bc6d4d5b6f6c542d4eed1cd66d41/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/4ba9bc6d4d5b6f6c542d4eed1cd66d41/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/8490a2b14c0dec8e3b8836cf078ad712/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/8490a2b14c0dec8e3b8836cf078ad712/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/ef72bbbffc886a79aa576b715dfa2102/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/ef72bbbffc886a79aa576b715dfa2102/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/f82c354703adbd1c6979f84828248cb4/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/f82c354703adbd1c6979f84828248cb4/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/dc52581dd2a540e22b8cdcab7135167d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/dc52581dd2a540e22b8cdcab7135167d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6be35824a739ce42dcaa134e484857ff/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6be35824a739ce42dcaa134e484857ff/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/83cded707cce6f236011e226130ce1b7/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/83cded707cce6f236011e226130ce1b7/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/3af5b3a2e26f20748b662326e666627c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/3af5b3a2e26f20748b662326e666627c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/368c3545fcf3864c3bce698d687aaee7/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/368c3545fcf3864c3bce698d687aaee7/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6b6f1b16781064733e4e510a14b76ce4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/6b6f1b16781064733e4e510a14b76ce4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/83b8e3dd3565d317be31bd11a574de03/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/83b8e3dd3565d317be31bd11a574de03/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1f3d90a9318f44a20302a6e3ee4fa36f/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1f3d90a9318f44a20302a6e3ee4fa36f/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/599955e5868885974aee420606f81f3b/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/599955e5868885974aee420606f81f3b/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/4662b63caf60c8494902d9b86f44248b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/4662b63caf60c8494902d9b86f44248b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/3833c6cd08effe6d6096a633084ca7d1/lifecycle-livedata-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/3833c6cd08effe6d6096a633084ca7d1/lifecycle-livedata-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/f8faba281db473a58c54df94d9ab7e5b/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/f8faba281db473a58c54df94d9ab7e5b/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/7160e2cd43b43f75278fddede68aacee/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/7160e2cd43b43f75278fddede68aacee/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/8a14fb54394dd6c082783bdf01a6c73b/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/8a14fb54394dd6c082783bdf01a6c73b/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/cdb6f3003946fde6764571f4572be623/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/cdb6f3003946fde6764571f4572be623/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/236e57a2ede3526bd62e4b3e4bb3dcd8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/236e57a2ede3526bd62e4b3e4bb3dcd8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1131397baae83771b671b5aa4eda29c9/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/quipper/.gradle/caches/transforms-2/files-2.1/1131397baae83771b671b5aa4eda29c9/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/quipper/Documents/Projects/MyApplication/androidApp/src/main/AndroidManifest.xml
